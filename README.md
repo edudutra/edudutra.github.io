@@ -16,18 +16,10 @@ Atualmente, estou focado em projetos de engenharia de dados, com forte interesse
 
 ---
 
-## 🌱 Em aprendizado
-
-- Kubernetes
-- Rust
-- Otimização de pipelines de dados em larga escala
-
----
-
 ## 📫 Como me encontrar
 
-- [LinkedIn](https://linkedin.com/in/seu-usuario)
-- [GitHub](https://github.com/seu-usuario)
+- [LinkedIn](https://linkedin.com/in/edudutra)
+- [GitHub](https://github.com/edudutra)
 - Email: seu.email@exemplo.com
 
 ---
