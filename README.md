@@ -12,7 +12,7 @@ Atualmente, estou focado em projetos de engenharia de dados, com forte interesse
 - **Dados**: Apache Spark, Pandas, Delta Lake, Parquet
 - **Cloud**: AWS (Glue, S3, RDS, EC2)
 - **Bancos de Dados**: PostgreSQL, Redshift, BigQuery
-- **Outros**: Docker, Git, Airflow, Tableau, dbt
+- **Outros**: Docker, Git, Airflow, Tableau
 
 ---
 
